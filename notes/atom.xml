@@ -4,7 +4,7 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Notes from Jonathan McGlone</title>
+ <title>Notes from Raja S</title>
  <link href="http://jmcglone.com/notes/atom.xml" rel="self"/>
  <link href="http://jmcglone.com/notes/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
